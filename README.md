@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Powehi.</h1>
 
 - 🔭 I’m currently a postgraduate，major in _Control Science and Engneering_。
-- 🌱 I’m interested in **MASs Consensus Problem, RL, MPC, LLM, Embodied Intelligence**.
+- 🌱 I’m interested in **MASs Consensus Problem, RL, MPC, LLM, Robotic**.
 - 💬 Ask me about ...
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
