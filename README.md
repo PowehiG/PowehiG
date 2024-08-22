@@ -25,7 +25,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PowehiG&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/LelouchFR/skill-icons -->
-<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=matlab,py,c,cpp,cs,html,css,js,md,sqlite&theme=auto">
+<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=matlab,py,c,cpp,cs,html,css,js,md,latex&theme=auto">
 </p>
 
 
