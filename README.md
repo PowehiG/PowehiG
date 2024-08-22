@@ -1,26 +1,37 @@
-## Hi there 👋
+## Hi there, I'm Powehi👋
 
-<!--
-**PowehiG/PowehiG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PowehiG)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PowehiG&show_icons=true&theme=radical)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently a postgraduate，major in _Control Science and Engneering_。
+- 🌱 I’m interested in **MASs Consensus Problem, RL, MPC, LLM, Embodied Intelligence**.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PowehiG&repo=show_icons=true&theme=radical"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app//top-langs/?username=PowehiG" />
-</a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PowehiG&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PowehiG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### My Github
+---
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=PowehiG&show_icons=true&count_private=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=PowehiG&show_icons=true&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PowehiG&show_icons=true&count_private=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PowehiG&langs_count=8&layout=compact&count_private=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PowehiG&langs_count=8&layout=compact&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plumess&langs_count=8&layout=compact&count_private=true" />
+</picture>
+
+
 
