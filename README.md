@@ -1,10 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Powehi.</h1>
 
-- 🔭 I’m currently a postgraduate，major in _Control Science and Engneering_。
+- 🔭 I’m currently a postgraduate，major in _Control Science and Engneering_.
+- 💬 I'm currently studying in **MASs consensus Problem, Fixed-Time Control, Event-Triggered Control**.
 - 🌱 I’m interested in **MASs Consensus Problem, RL, MPC, LLM, Robotic**.
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ 
+- 😄 Welcome to communication with me!
 
 
 ## My Github <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
