@@ -3,7 +3,6 @@
 - 🔭 I’m currently a postgraduate，major in _Control Science and Engneering_。
 - 🌱 I’m interested in **MASs Consensus Problem, RL, MPC, LLM, Robotic**.
 - 💬 Ask me about ...
-- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
@@ -29,7 +28,7 @@
 </p>
 
 
-## Contact Me
+## 📫 Contact Me
 - Email: <a href="mailto:gaozhiyi127@gmail.com">gaozhiyi127@gmail.com</a>
 - Zhihu: [Powehi's Zhihu Homepage](https://www.zhihu.com/people/gao-zhi-yi-25)
 
