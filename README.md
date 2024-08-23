@@ -52,9 +52,8 @@
 ## 📫 Contact Me
 - E-Mail: <a href="mailto:gaozhiyi127@gmail.com">
   <img src="https://img.shields.io/badge/-gaozhiyi127@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=fff" /> </a>
-- Social Media: <a href="https://www.zhihu.com/people/gao-zhi-yi-25">
-  <img src="https://img.shields.io/badge/-PowehiG-0084FF?style=flat-square&logo=zhihu&logoColor=fff" /></a>
-
+- Social Media: <a href="https://www.zhihu.com/people/gao-zhi-yi-25"><img src="https://img.shields.io/badge/-PowehiG-0084FF?style=flat-square&logo=zhihu&logoColor=fff" /></a>
+<a href="https://space.bilibili.com/479746422"><img src="https://img.shields.io/badge/-Chuas-00A1D6?style=flat-square&logo=bilibili&logoColor=fff" /></a>
 
 
 
