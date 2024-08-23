@@ -7,7 +7,7 @@
 - 😄 Welcome to communication with me!
 
 
-## My Github <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+## <img alt="Github" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" width="25" height="25"/> My Github 
 
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
