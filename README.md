@@ -1,10 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Powehi.</h1>
 
-- 🔭 I’m currently a postgraduate，major in _Control Science and Engneering_.
+- 🔭 I’m currently a postgraduate,major in _Control Science and Engneering_.
 - 💬 I'm currently studying in **MASs consensus Problem, Fixed-Time Control, Event-Triggered Control**.
 - 🌱 I’m interested in **MASs Consensus Problem, RL, MPC, LLM, Robotic**.
-- ⚡ 
 - 😄 Welcome to communication with me!
+
 
 ## 💻 My Skills & Tools
 
@@ -18,7 +18,8 @@
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=Neovim&logoColor=fff)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=Obsidian&logoColor=fff)
 
-### Tools
+
+### Tools & Languages
 ![Conda](https://img.shields.io/badge/-Conda-44A833?style=flat-square&logo=Anaconda&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
@@ -27,11 +28,10 @@
 
 
 <!-- https://github.com/LelouchFR/skill-icons -->
-<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=matlab,py,c,cpp,cs,html,css,js,md,latex&theme=auto">
+<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=matlab,py,c,cpp,linux,html,css,js,md,latex&theme=auto">
 
 
 ## <img alt="Github" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" width="25" height="25"/> My Github 
----
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=PowehiG&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
@@ -50,8 +50,11 @@
 
 
 ## 📫 Contact Me
-- Email: <a href="mailto:gaozhiyi127@gmail.com">gaozhiyi127@gmail.com</a>
-- Zhihu: [Powehi's Zhihu Homepage](https://www.zhihu.com/people/gao-zhi-yi-25)
+- E-Mail: <a href="mailto:gaozhiyi127@gmail.com">
+  <img src="https://img.shields.io/badge/-gaozhiyi127@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=fff" /> </a>
+- Social Media: <a href="https://www.zhihu.com/people/gao-zhi-yi-25">
+  <img src="https://img.shields.io/badge/-PowehiG-0084FF?style=flat-square&logo=zhihu&logoColor=fff" /></a>
+
 
 
 
