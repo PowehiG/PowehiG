@@ -12,6 +12,7 @@
 ![Windows 11](https://img.shields.io/badge/-Windows%2011-0078d6?style=flat-square&logo=windows&logoColor=fff)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=fff)
 ![MacOS](https://img.shields.io/badge/-MacOS-black?logo=Apple)
+
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=fff)
 ![Clion](https://img.shields.io/badge/-Clion-000000?style=flat-square&logo=Clion&logoColor=fff)
