@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Powehi.</h1>
 
 - 🔭 I’m currently a postgraduate, major in _Control Science and Engneering_.
-- 💻 I'm currently a R&D Intern in Momenta, focus on _Object Detection_.
+- 💻 I'm currently an R&D Intern in Momenta, focus on _Object Detection_.
 - 💬 I'm currently studying in **MASs consensus Problem, Event-Triggered Control, Reinforcement Learning, Object Detection**.
 - 🌱 I’m interested in **MASs Consensus Problem, RL, MPC, LLM, Robotic**.
 - 😄 Welcome to communication with me!
