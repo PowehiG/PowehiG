@@ -27,6 +27,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=fff)
 ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ROS&logoColor=fff)
+![WANDB](https://img.shields.io/badge/-WANDB-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=fff)
 
 
 <!-- https://github.com/LelouchFR/skill-icons -->
