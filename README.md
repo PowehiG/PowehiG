@@ -27,11 +27,12 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=fff)
 ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ROS&logoColor=fff)
-![WANDB](https://img.shields.io/badge/-WANDB-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=fff)
+![WANDB](https://img.shields.io/badge/-WandB-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=fff)
+![TMUX](https://img.shields.io/badge/-Tmux-1BB91F?style=flat-square&logo=tmux&logoColor=fff)
 
 
 <!-- https://github.com/LelouchFR/skill-icons -->
-<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=matlab,py,c,cpp,linux,html,css,js,md,latex&theme=auto">
+<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=linux,py,c,cpp,matlab,html,js,md&theme=auto">
 
 
 ## <img alt="Github" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" width="25" height="25"/> My Github 
