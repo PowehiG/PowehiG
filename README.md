@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Powehi.</h1>
 
 - 🔭 I’m currently a postgraduate, major in _Control Science and Engneering_.
-- 💻  Now I'm an AI Engineer Intern in HUAWEI, focus on _RLHF_.
+- 💻  Now I'm an AI Engineer, focus on _RLHF_.
 - 💬 I'm currently studying in **MASs consensus Problem, Event-Triggered Control, Reinforcement Learning, Object Detection**.
 - 🌱 I’m interested in **MASs Consensus Problem, RL, MPC, LLM, Robotic**.
 - 😄 Welcome to communication with me!
