@@ -3,7 +3,7 @@
 - 🔭 I was graduated from Beijing Institute of Technology, majored in _Control Science and Engneering_.
 - 💻  Now I'm now an AI Engineer, focus on _LLM RL system_.
 - 💬 I'm currently studying in **Reinforcement Learning, Speculative Decoding**.
-- 🌱 I’m interested in ** RL, LLM, Robotic**.
+- 🌱 I’m interested in **RL, LLM, Robotic**.
 - 😄 Welcome to communication with me!
 
 
