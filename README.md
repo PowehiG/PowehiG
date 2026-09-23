@@ -36,7 +36,7 @@
 
 
 ## <img alt="Github" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" width="25" height="25"/> My Github 
-<p align="center">
+<!-- <p align="center"> -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=PowehiG&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" /> -->
 <!-- <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -51,7 +51,7 @@
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PowehiG&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" /> -->
 <!-- <br/> --> 
 ![GitHubCard](https://githubcard.com/PowehiG.svg?d=uoXCZmBjU1QT)
-</p>
+<!-- </p> -->
 
 
 ## 📫 Contact Me
